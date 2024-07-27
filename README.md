@@ -12,4 +12,4 @@
 > 
 > The chart reveals that in this sample of 805 people, most of them feel comfortable with others asking them to change seat due to their family.
 ## Link to the Raw data of Flying Etiquette
-[Flying Etiquette]()
+[Flying Etiquette](Flying etiquette - Raw Data.csv)
