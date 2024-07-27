@@ -3,6 +3,6 @@
 > 
 > In our daily lives, it is very common to hear someone who travels with their family asking others to switch seats with them; and I often do the same thing.
 > 
-> ** However, what do people usually think of it? **
+> **However, what do people usually think of it?**
 > 
 > In this dataset of "Flying Etiquette", there are people with different frequencies of flying experiences, and when asking this question of switching seats, they are given three levels of answers "Yes, it is rude", "Yes, somewhat rude", and "No, not at all rude". It is interesting to see how people would react to this situation in their heart
