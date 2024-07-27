@@ -8,6 +8,6 @@
 > In this dataset of "Flying Etiquette", there are people with different frequencies of flying experiences, and when asking this question of switching seats, they are given three levels of answers "Yes, it is rude", "Yes, somewhat rude", and "No, not at all rude". It is interesting to see how people would react to this situation in their heart
 ## Chart Illustrating the Result of the Survey
 ![The Bar Chart of this Survey](19cMc-is-it-rude-to-ask-someone-to-switch-seats-with-you-in-order-to-be-closer-to-family-.png)
-> According to the chart, the majority of respondents <ins>(705 out of 850)</ins> feel that it is <ins>"Not at all rude"</ins>; a smaller portion <ins>(125 respondents)</ins> consider it <ins>"Somewhat rude"</ins>; and there are a few respondents <ins>(20)</ins>view it as <ins>"Very rude."</ins>
+> According to the chart, the majority of respondents <ins>(705 out of 850)</ins> feel that it is <ins>"Not at all rude"</ins>; a smaller portion <ins>(125 respondents)</ins> consider it <ins>"Somewhat rude"</ins>; and there are a few respondents <ins>(20)</ins>view it as <ins>"Very rude"</ins>.
 > 
 > The chart reveals that in this sample of 805 people, most of them feel comfortable with others asking them to change seat due to their family. 
