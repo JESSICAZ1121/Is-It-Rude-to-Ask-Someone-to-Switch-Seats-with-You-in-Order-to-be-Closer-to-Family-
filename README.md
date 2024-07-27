@@ -6,3 +6,5 @@
 > **However, what do people usually think of it?**
 > 
 > In this dataset of "Flying Etiquette", there are people with different frequencies of flying experiences, and when asking this question of switching seats, they are given three levels of answers "Yes, it is rude", "Yes, somewhat rude", and "No, not at all rude". It is interesting to see how people would react to this situation in their heart
+## Chart Illustrating the Result of the Survey
+![The Bar Chart of this Survey]
