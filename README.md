@@ -11,5 +11,3 @@
 > According to the chart, the majority of respondents <ins>(705 out of 850)</ins> feel that it is <ins>"Not at all rude"</ins>; a smaller portion <ins>(125 respondents)</ins> consider it <ins>"Somewhat rude"</ins>; and there are a few respondents <ins>(20)</ins>view it as <ins>"Very rude"</ins>.
 > 
 > The chart reveals that in this sample of 805 people, most of them feel comfortable with others asking them to change seat due to their family.
-## Link to the Raw data of Flying Etiquette
-[Flying etiquette - Raw Data.csv]
